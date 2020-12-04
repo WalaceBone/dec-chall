@@ -1,0 +1,15 @@
+API Tan 
+    ☐ https://data.nantesmetropole.fr/explore/dataset/244400404_api-temps-reel-tan/information/
+    ☐ https://data.opendatasoft.com/explore/dataset/244400404_api-temps-reel-tan%40nantesmetropole/information/
+
+Alexa skills
+    ☐ https://developer.amazon.com/
+    ☐ https://developer.amazon.com/en-US/docs/alexa/custom-skills/steps-to-build-a-custom-skill.html
+
+TODO
+    ☐ test implementation skill alexa
+    ☐ demo test implementation api tan typescript
+    ☐ etre capable de demander a alexa l'heure du prochain bus pour x
+    ☐ definir requete possible
+    ☐ definir list d'intent pour req
+    ☐ definir slot pour les intent

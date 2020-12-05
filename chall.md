@@ -8,3 +8,9 @@ First day :
  
 Second day :
 - keep following tutorial on YT https://www.youtube.com/playlist?list=PL2KJmkHeYQTO65ko4I--OC-7CC_Cjg8sS
+
+Third Day : 
+- started creating intent for alexa
+
+Fourth Day : 
+- Installed Rust environnement 
